@@ -1,0 +1,1 @@
+Devops should be fun
