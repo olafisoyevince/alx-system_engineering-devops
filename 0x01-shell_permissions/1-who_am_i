@@ -1,2 +1,2 @@
 #!/bin/bash
-olafisoye
+sudo chown whoami
